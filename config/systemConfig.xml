@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Config>
+  <SystemUrl>
+    <!-- 注册用户地址 -->
+    <registerUrl>http://uums.kingsun.cn/Account/Register/PhoneRegister.aspx?type=p&amp;backurl=http://tbw.kingsun.cn/</registerUrl>
+    <!-- 忘记密码地址 -->
+    <pwd>http://uums.kingsun.cn/Account/ForgetPassword/ByPhone.aspx?backurl=http://tbw.kingsun.cn/</pwd>
+    <!-- 会员中心 -->
+    <member>http://www.kingsunsoft.com/Menhu/Member.aspx</member>
+    <!-- 我的主页 -->
+    <myIndex>http://kingdom.kingsunsoft.com</myIndex>
+    <!-- 充值地址 -->
+    <rechargeUrl>http://study.kingsunsoft.com/Client/ValueManagement.aspx</rechargeUrl>
+    <!-- 同步课堂 -->
+    <FZSyncClass>http://study.kingsunsoft.com/uploadfile/</FZSyncClass>
+    <ServerPath>http://study.kingsunsoft.com/Client/ClientUploadFile.aspx</ServerPath>
+ <onlineService>http://wpd.b.qq.com/page/webchat.html?nameAccount=4001118180</onlineService>
+  </SystemUrl>
+  <SiteUrl>
+	  <UserInfo>http://uums.kingsunsoft.com//</UserInfo>
+	  <fzWebSite>http://www.kingsunsoft.com//</fzWebSite>
+	  <FZSyncValidate>http://study.kingsunsoft.com//</FZSyncValidate>
+	  <KSWord>http://word.kingsunsoft.com//</KSWord>
+	  <fzShop>http://www.fzjty.com//</fzShop>
+	  <GamePark>http://game.kingsunsoft.com//</GamePark>
+	  <FZResourseValidate>http://res.kingsunsoft.com//</FZResourseValidate>
+	  <FZDnt>http://bbs.kingsunsoft.com//</FZDnt>
+	  <platFrom>http://ofo.kingsunsoft.com//</platFrom>
+  </SiteUrl>
+  <WebServiceUrl>
+	  <uums>http://uums.kingsunsoft.com/WebService/FZResourceManage.asmx</uums>
+	  <shop>http://www.fzjty.com/EvaluateWeb/KSShopUser.asmx</shop>
+	  <study>http://study.kingsunsoft.com/WebServer/WebServicePatch.asmx</study>
+	  <crashdump>http://soft.kingsun.cn/FileUpload.ashx</crashdump>
+  </WebServiceUrl>
+  <Device>
+  <usbflag>kingsunusb</usbflag>
+  </Device>
+</Config>
